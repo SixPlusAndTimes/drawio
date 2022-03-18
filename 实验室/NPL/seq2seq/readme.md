@@ -1,0 +1,2 @@
+学习NPL中的sq2seq模型
+主要参考资料莫烦python教程
